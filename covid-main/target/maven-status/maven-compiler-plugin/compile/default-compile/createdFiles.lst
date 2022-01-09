@@ -1,0 +1,5 @@
+app\servlets\AccueilServlet.class
+app\BeanPackage\UserBean.class
+app\BeanPackage\Activite.class
+app\batabase\SQLConnector.class
+app\servlets\BeanServlet.class
